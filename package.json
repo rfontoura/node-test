@@ -1,0 +1,30 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Projeto teste para aprendizado do Node.js",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfontoura/node-test.git"
+  },
+  "keywords": [
+    "test",
+    "nodejs",
+    "node.js",
+    "project",
+    "simple"
+  ],
+  "author": "Rafael Fontoura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfontoura/node-test/issues"
+  },
+  "homepage": "https://github.com/rfontoura/node-test#readme"
+}
